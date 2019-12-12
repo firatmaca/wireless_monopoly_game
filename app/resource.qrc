@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>GO.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix1">
+        <file>asd.png</file>
+    </qresource>
+</RCC>
